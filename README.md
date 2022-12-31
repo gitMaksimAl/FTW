@@ -1,5 +1,12 @@
 # __FTW__
 Final test work based on the results of the first quarter of GB training.
+> Task:
+>
+>   1. Создать репозиторий на GitHub.
+>   2. Нарисовать блок-схему алгоритма.
+>   3. Снабдить репозиторий оформленным текстовым описанием решения.
+>   4. Написать программу, решающую поставленную задачу.
+>   5. Использовать контроль версий в работе над этим проектом.
 
 ![OS](https://img.shields.io/badge/OS-Linux-red?style=flat&logo=linux)
 [![Hub](https://img.shields.io/github/languages/top/gitMaksimAl/FTW?label=FTW&logo=GitHub)](https://github.com/gitMaksimAl/FTW)
@@ -24,3 +31,5 @@ ____________________
 
 ## Copyright
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) No copyright.
+
+[Go up](#ftw)
