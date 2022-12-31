@@ -15,7 +15,6 @@ Final test work based on the results of the first quarter of GB training.
 ## Content
 * [Description](#description)
 * [Flowchart](#flowchart)
-* [Usage](#usage)
 * [Copyright](#copyright)
 
 ## Description
